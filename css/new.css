@@ -1,0 +1,39 @@
+
+.me{
+	background: black;
+	padding-top: 10px;
+	padding: 40px;
+}
+
+.bk{
+ background: purple;	
+}
+
+.footer{
+ background:#00BFFF;
+ color:#EEE;
+ text-align:center;
+ font-size:15px;
+}
+
+.b{
+	position: relative;
+	//left: 700px;
+	top: 7px;
+}
+
+.a{
+	position: absolute;
+	padding-top: 50px;
+	margin-left: 0px;
+	padding-bottom: 20px;
+}
+
+.cn{
+	padding: 0px;
+	margin-top: -70px;
+}
+
+
+
+

@@ -1,0 +1,23 @@
+
+
+.bk{
+ background: purple;	
+}
+
+.jumbotron{
+	//width: 500px;
+	padding: 40px;
+	height: 100px;
+	color: black;
+}
+
+.ayo{
+	background: black;
+}
+
+.footer{
+ background: purple;
+ color:#EEE;
+ text-align:center;
+ font-size:15px;
+}

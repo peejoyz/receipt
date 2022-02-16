@@ -1,0 +1,13 @@
+.alert{
+	background-color: green;
+	color: white;
+	font-size: 14px;
+	border: 2px solid yellow;
+	width: 80%;
+}
+.times{
+	font-size: 20px;
+	color: white;
+	padding-left: 20px;
+
+}
